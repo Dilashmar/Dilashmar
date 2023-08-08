@@ -1,9 +1,6 @@
 ### Hi there 👋
 
-
-**Dilashmar/Dilashmr** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
+My name is Dilashma 
 
 - 🌱 I’m currently an undergrad student studying Computer Science
 - ⚡  I love programming, philosophy, and crocheting
